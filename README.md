@@ -22,8 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](images\chrome-capture-2025-11-04.png)
-
+![](/images/chrome-capture-2025-11-04.png)
 
 ### Links
 
