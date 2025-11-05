@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/nft-preview-card-component-Gfok2qd-9o](https://www.frontendmentor.io/solutions/nft-preview-card-component-Gfok2qd-9o)
-- Live Site URL: [https://altaircgs.github.io/nft-preview-card-component-main/](https://altaircgs.github.io/nft-preview-card-component-main/)
+- Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-card-component---flex---grid-EJ1DVZCD1R](https://www.frontendmentor.io/solutions/stats-preview-card-component---flex---grid-EJ1DVZCD1R)
+- Live Site URL: [https://altaircgs.github.io/stats-preview-card-component-main/](https://altaircgs.github.io/stats-preview-card-component-main/)
 
 ## My process
 
