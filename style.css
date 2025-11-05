@@ -95,6 +95,10 @@ span {
     font-weight: 400;
 }
 
+h2 {
+    color: var(--White-MainHeading-Stats);
+}
+
 @media (max-width: 375px) {
 
     body {
